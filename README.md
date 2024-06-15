@@ -1,2 +1,2 @@
-### Rest API Authentication Using JWT Tutorial
-This is an implementation of Rest API Authentication Using JWT. A blog about this can be found here: [Rest API Authentication Using JWT Tutorial | Fajarwz](https://fajarwz.com/blog/rest-api-authentication-using-jwt-tutorial).
+### Laravel Api Documentation Generator With OpenAPI/Swagger Using DarkaOnLine/L5-Swagger
+This is an implementation of generating Laravel API documentation using DarkaOnLine/L5-Swagger. A blog about this can be found here: [Laravel Api Documentation Generator With OpenAPI/Swagger Using DarkaOnLine/L5-Swagger | Fajarwz](https://fajarwz.com/blog/laravel-api-documentation-generator-with-open-api-swagger-using-darkaonline-l5-swagger/).
